@@ -17,7 +17,7 @@ const DefaultMaxRequests5Sec int64 = 7
 const DefaultMaxWorkers = 8
 const DefaultCaptureBotTimeout = time.Second
 const DefaultTaskTimeout = time.Second * 10
-const DefaultBotPrefix = ".au"
+const DefaultBotPrefix = ".pgg"
 const DefaultBotID = "753795015830011944" // Official AutoMuteUs bot ID
 
 func main() {

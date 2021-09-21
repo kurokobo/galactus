@@ -16,3 +16,5 @@ require (
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0
 )
+
+replace github.com/automuteus/utils v0.0.13 => github.com/kurokobo/utils v0.0.19-0.20210921141255-e4497b382e70
